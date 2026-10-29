@@ -85,9 +85,10 @@ The notebook uses Python and the following libraries:
 
 ## 📸Preview
 ![Photo](Photo.png)
-![Image](Image.png)
-![Img](Img.png)
 ![Preview](Preview.png)
+![Img](Img.png)
+![Image](Image.png)
+
 
 
 
